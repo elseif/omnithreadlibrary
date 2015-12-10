@@ -1,0 +1,1 @@
+This project has been moved to [GitHub](https://github.com/gabr42/OmniThreadLibrary).

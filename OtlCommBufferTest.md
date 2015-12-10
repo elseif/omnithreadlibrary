@@ -1,0 +1,1 @@
+This unit contains only one test which is executed directly from the initialization section.
